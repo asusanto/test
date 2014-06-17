@@ -1,4 +1,4 @@
-test
+Test
 ====
 
-for testing only
+Initital Git Test
